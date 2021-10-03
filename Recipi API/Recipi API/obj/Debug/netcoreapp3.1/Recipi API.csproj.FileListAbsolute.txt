@@ -1,0 +1,68 @@
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.exe
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.deps.json
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.runtimeconfig.json
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.runtimeconfig.dev.json
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Recipi API.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.csprojAssemblyReference.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.AssemblyInfoInputs.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.AssemblyInfo.cs
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.csproj.CoreCompileInputs.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\staticwebassets\Recipi API.StaticWebAssets.Manifest.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\staticwebassets\Recipi API.StaticWebAssets.xml
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Recipi API.styles.css
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.RazorTargetAssemblyInfo.cache
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.csproj.CopyComplete
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.dll
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.pdb
+C:\Users\bartm\source\repos\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipi API.genruntimeconfig.cache

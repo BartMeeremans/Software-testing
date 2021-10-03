@@ -1,0 +1,8 @@
+Done:	
+	Repo aanmaken 
+	C# api 
+	Documentatie aanmaken
+in-progress:
+
+to-do:
+	Documentatie API aanvullen
