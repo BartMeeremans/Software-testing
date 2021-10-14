@@ -1,7 +1,8 @@
 # Software-testing verloop Bart Meeremans 
 
 
-Done:  	
+Done: 
+ 	
 	Repo aanmaken 
 	C# api  in orde brengen
 
