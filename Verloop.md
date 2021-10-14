@@ -1,26 +1,26 @@
 # Software-testing verloop Bart Meeremans 
 
 
-Done:	
+Done:  	
 	Repo aanmaken 
 	C# api  in orde brengen
 
 	Normale testing: 
         Get + documentatie 
 
-in-progress:
+in-progress:  
 	Testing-api-bart-meeremans: aanvullen
 
-to-do:
-	Normale testing: 
-        Post verder uitwerken + documentatie
-        Put + documentatie
-        Delete + documentatie
-    Automated testing
-        Get + documentatie
-        Post + documentatie
-        Put + documentatie
-        Delete + documentatie
+to-do:  
+	Normale testing:   
+        Post verder uitwerken + documentatie  
+        Put + documentatie  
+        Delete + documentatie  
+    Automated testing  
+        Get + documentatie  
+        Post + documentatie  
+        Put + documentatie  
+        Delete + documentatie  
     
 
 
