@@ -12,11 +12,12 @@ in-progress:
 	Testing-api-bart-meeremans: aanvullen
 
 to-do:  
+
 	Normale testing:   
         Post verder uitwerken + documentatie  
         Put + documentatie  
         Delete + documentatie  
-        
+
     Automated testing  
         Get + documentatie  
         Post + documentatie  
