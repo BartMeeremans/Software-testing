@@ -9,6 +9,7 @@ Done:
         Get + documentatie 
 
 in-progress:  
+
 	Testing-api-bart-meeremans: aanvullen
 
 to-do:  
@@ -18,7 +19,7 @@ to-do:
         Put + documentatie  
         Delete + documentatie  
 
-    Automated testing  
+    Automated testing:    
         Get + documentatie  
         Post + documentatie  
         Put + documentatie  
