@@ -121,7 +121,6 @@ C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\bin\Debug
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.csprojAssemblyReference.cache
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.AssemblyInfoInputs.cache
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.AssemblyInfo.cs
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.csproj.CoreCompileInputs.cache
@@ -130,7 +129,8 @@ C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\staticwebassets\Recipe API.StaticWebAssets.xml
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Recipe API.styles.css
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.RazorTargetAssemblyInfo.cache
-C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.csproj.CopyComplete
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.dll
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.pdb
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.genruntimeconfig.cache
+C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.csproj.AssemblyReference.cache
+C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.GeneratedMSBuildEditorConfig.editorconfig

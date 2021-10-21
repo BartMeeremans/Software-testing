@@ -36,3 +36,5 @@ Time Tabel
 | 04/10     | get/post testing + doc      |   1h       |
 | 13/10 | Get testing uitbreiden      |    20min       |
 | 14/10 | Documentatie in orde brengen      |    15min       |
+| 21/10 | Categorieen testen toevoegen      |    20min       |
+| 21/10 | JSON gerelateerde testen, extra get/post testen      |    30min       |
