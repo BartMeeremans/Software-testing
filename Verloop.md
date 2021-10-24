@@ -8,18 +8,18 @@ Done:
 
 	Normale testing: 
         Get + documentatie 
+        Post + documentatie
+        Put + documentatie
+        Delete + documentatie
+
+        Collection runner:
+        CRUD testing flow getest
 
 in-progress:  
 
 	Testing-api-bart-meeremans: aanvullen
-        Post verder uitwerken + documentatie  
 
 to-do:  
-
-	Normale testing:   
-        Put + documentatie  
-        Delete + documentatie  
-
     Automated testing:    
         Get + documentatie  
         Post + documentatie  
@@ -38,3 +38,5 @@ Time Tabel
 | 14/10 | Documentatie in orde brengen      |    15min       |
 | 21/10 | Categorieen testen toevoegen      |    20min       |
 | 21/10 | JSON gerelateerde testen, extra get/post testen      |    30min       |
+| 24/10 | Normale put/delete requests afwerken + collection tests      |    30min       |
+| 24/10 | Collection runnen, crud testing flow     |    40min       |

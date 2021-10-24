@@ -46,10 +46,18 @@ namespace Recipi_API.Controllers
             catch
             {
                 return NotFound();
-            }
-            _rService.DeleteRecipe(item.id);
+            }      
+            if(item != null)
+            {
+                _rService.DeleteRecipe(item.id);
 
-            return NoContent();
+                return Ok();
+            }
+            else
+            {
+                return BadRequest();
+            }
+
         }
 
         [HttpPost("")]
@@ -70,8 +78,10 @@ namespace Recipi_API.Controllers
             if (recipe == null)
             {
                 return NotFound();
-            }            
-            return NoContent();
+            }
+            //return NoContent();
+
+            return CreatedAtAction(nameof(GetRecipe), new { id = recipe.RecipeId }, recipe);
         }
 
         [HttpGet("search")]
