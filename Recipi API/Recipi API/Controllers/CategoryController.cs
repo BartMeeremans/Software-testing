@@ -53,7 +53,11 @@ namespace Recipi_API.Controllers
             {
                 return NotFound();
             }
-            _cService.DeleteCategory(item.CategoryId);
+            if (item != null)
+            {
+                _cService.DeleteCategory(item.CategoryId);
+                return Ok();
+            }
 
             return NoContent();
         }

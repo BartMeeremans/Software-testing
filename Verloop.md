@@ -40,3 +40,4 @@ Time Tabel
 | 21/10 | JSON gerelateerde testen, extra get/post testen      |    30min       |
 | 24/10 | Normale put/delete requests afwerken + collection tests      |    30min       |
 | 24/10 | Collection runnen, crud testing flow     |    40min       |
+| 26/10 | Documentatie uitbreiden met inleiding/api gebruiken   |    50min       |
