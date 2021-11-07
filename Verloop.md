@@ -41,8 +41,10 @@ Time Tabel
 
 | Date          | Subject       | Time spent  |
 | ------------- |:-------------:| -----------:|
-| 04/10         | API in orde brengen | 30min       |
-| 04/10     | get/post testing + doc      |   1h       |
+| 04/10 | API in orde brengen | 30min       |
+| 04/10 | Github in orde brengen | 20min       |
+| 04/10 | Recearch naar postman get testing      |   20min       |
+| 04/10 | get/post testing + doc      |   1h       |
 | 13/10 | Get testing uitbreiden      |    20min       |
 | 14/10 | Documentatie in orde brengen      |    15min       |
 | 21/10 | Categorieen testen toevoegen      |    20min       |
@@ -50,5 +52,5 @@ Time Tabel
 | 24/10 | Normale put/delete requests afwerken + collection tests      |    30min       |
 | 24/10 | Collection runnen, crud testing flow     |    40min       |
 | 26/10 | Documentatie uitbreiden met inleiding/api gebruiken   |    50min       |
-| 07/11 | Documentatie uitbreiden met Categorie   |    10min       |
+| 07/11 | Documentatie uitbreiden met Categorie tittels   |    10min       |
 | 07/11 | Api applicatie aanpassen zodat categorie kan getest worden   |    30min       |
