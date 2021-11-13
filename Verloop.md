@@ -11,6 +11,8 @@ Done:
         Recipe Post + documentatie
         Recipe Put + documentatie
         Recipe Delete + documentatie
+        
+        Category get + documentatie
 
     Collection runner:
         CRUD testing recipe flow getest
@@ -22,7 +24,6 @@ in-progress:
 to-do: 
 
     Normale testing:
-        Categorie get + documentatie
         Categorie post + documentatie 
         Categorie put + documentatie 
         Categorie delete + documentatie 
@@ -54,3 +55,5 @@ Time Tabel
 | 26/10 | Documentatie uitbreiden met inleiding/api gebruiken   |    50min       |
 | 07/11 | Documentatie uitbreiden met Categorie tittels   |    10min       |
 | 07/11 | Api applicatie aanpassen zodat categorie kan getest worden   |    30min       |
+| 13/11 | Collection/environment voor category   |    25min       |
+| 13/11 | Category get test  |    15min       |
