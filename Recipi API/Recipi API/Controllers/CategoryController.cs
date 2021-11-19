@@ -73,7 +73,8 @@ namespace Recipi_API.Controllers
             {
                 return NotFound();
             }
-            return NoContent();
+
+            return CreatedAtAction(nameof(GetCategory), new { id = updated.CategoryId }, updated);
         }
     }
 }

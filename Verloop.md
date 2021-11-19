@@ -13,6 +13,9 @@ Done:
         Recipe Delete + documentatie
         
         Category get + documentatie
+        Categorie post + documentatie 
+        Categorie put + documentatie 
+        Categorie delete + documentatie 
 
     Collection runner:
         CRUD testing recipe flow getest
@@ -20,16 +23,12 @@ Done:
 in-progress:  
 
 	Testing-api-bart-meeremans: aanvullen
-
-to-do: 
-
-    Normale testing:
-        Categorie post + documentatie 
-        Categorie put + documentatie 
-        Categorie delete + documentatie 
     Collection runner:
         CRUD testing Categorie 
         CRUD testing Categorie + recipe
+
+to-do:     
+    
     Automated testing:    
         Get + documentatie  
         Post + documentatie  
@@ -57,3 +56,8 @@ Time Tabel
 | 07/11 | Api applicatie aanpassen zodat categorie kan getest worden   |    30min       |
 | 13/11 | Collection/environment voor category   |    25min       |
 | 13/11 | Category get test  |    15min       |
+| 19/11 | Category getid test  |    15min       |
+| 19/11 | Category post test  |    20min       |
+| 19/11 | Category put test  |    15min       |
+| 19/11 | Category delete test  |    25min       |
+| 19/11 | Collection runner  |    30min       |
