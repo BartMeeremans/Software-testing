@@ -22,12 +22,11 @@ Done:
         CRUD testing recipe flow getest
 
 in-progress:  
-
 	Testing-api-bart-meeremans: aanvullen
-
-to-do:     
     Collection runner:        
         CRUD testing Categorie + recipe
+
+to-do:     
     Automated testing:    
         Get + documentatie  
         Post + documentatie  
@@ -61,3 +60,4 @@ Time Tabel
 | 19/11 | Category delete test  |    25min       |
 | 19/11 | Collection runner  |    30min       |
 | 24/11 | Collection runner afwerken |    30min       |
+| 30/11 | Collection runner CRUD aanmaken |    45min       |
