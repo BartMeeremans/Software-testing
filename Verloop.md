@@ -21,13 +21,14 @@ Done:
         CRUD testing Categorie 
         CRUD testing recipe flow getest
         CRUD testing Categorie + recipe
+    
+    Newman pipeline
 
 in-progress:  
 	Testing-api-bart-meeremans: aanvullen
 
 to-do:     
-    Newman pipeline
-    
+    Presentatie voorberijden
 
 
 Time Tabel
@@ -57,3 +58,4 @@ Time Tabel
 | 24/11 | Collection runner afwerken |    30min       |
 | 30/11 | Collection runner CRUD aanmaken |    45min       |
 | 09/12 | Collection runner CRUD afwerken +json |    140min       |
+| 09/12 | Newman |    40min       |
