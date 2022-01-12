@@ -131,7 +131,6 @@ C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\staticwebassets\Recipe API.StaticWebAssets.xml
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Recipe API.styles.css
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.RazorTargetAssemblyInfo.cache
-C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.csproj.CopyComplete
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.dll
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.pdb
 C:\Users\bartm\Documents\GitHub\Software-testing\Recipi API\Recipi API\obj\Debug\netcoreapp3.1\Recipe API.genruntimeconfig.cache
